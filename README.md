@@ -11,8 +11,8 @@
 Я всегда открыт для обмена опытом, обсуждения проектов или совместной подготовки к собеседованию!
 
 • **Telegram:** [@LeLch1k](https://t.me/LeLch1k) (предпочтительно)  
-• **ВКонтакте:** [vk.com/lelch1j](https://vk.com/lelch1k)  
-• **Почта:** bukharov-lenya@mail.ri 
+• **ВКонтакте:** [vk.com/lelch1k](https://vk.com/lelch1k)  
+• **Почта:** bukharov-lenya@mail.ru 
 
 
-*P.S. Иногда пишу проекты по учебе в [Telegram-канале/t.me/devlogweb] — заглядывайте!*
+*P.S. Иногда пишу проекты по учебе в [Telegram-канале/https://t.me/devlogweb] — заглядывайте!*
