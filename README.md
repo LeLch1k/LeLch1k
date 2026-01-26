@@ -15,4 +15,4 @@
 • **Почта:** bukharov-lenya@mail.ru 
 
 
-*P.S. Иногда пишу проекты по учебе в **Telegram-канале** [/https://t.me/devlogweb] — заглядывайте!*
+*P.S. Иногда пишу проекты по учебе в **Telegram-канале** [https://t.me/devlogweb] — заглядывайте!*
