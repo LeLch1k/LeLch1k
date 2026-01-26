@@ -1,4 +1,4 @@
-
+![image alt](https://github.com/LeLch1k/LeLch1k/blob/e40942a022094b70b2f7f051fd9b1a1d520ff55d/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ## 👋 Привет! Я Алексей
 
 **Студент** | Обучаюсь в ГБПОУ МО
