@@ -11,7 +11,10 @@
 #### 🤝 **Связь и соцсети**
 Я всегда открыт для обмена опытом, обсуждения проектов или совместной подготовки к собеседованию!
 
-• **Telegram:** [@LeLch1k](https://t.me/LeLch1k) (предпочтительно)  
+https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white
+<a href="@LeLch1k">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 • **ВКонтакте:** [vk.com/lelch1k](https://vk.com/lelch1k)  
 • **Почта:** bukharov-lenya@mail.ru 
 
