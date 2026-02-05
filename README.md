@@ -14,7 +14,12 @@
 <a href="https://t.me/LeLch1k">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-• **ВКонтакте:** [vk.com/lelch1k](https://vk.com/lelch1k)  
+
+<a href="https://vk.com/lelch1k">
+    <img src=" https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
+  </a>
+  
+
 • **Почта:** bukharov-lenya@mail.ru 
 
 
