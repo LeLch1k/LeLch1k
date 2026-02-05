@@ -19,8 +19,11 @@
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
   
+https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=mail&logoColor=white
+<a href="bukharov-lenya@mail.ru">
+    <img src="https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=mail&logoColor=white" alt="VK Badge"/>
+  </a>
 
-• **Почта:** bukharov-lenya@mail.ru 
 
 
 *P.S. Иногда пишу проекты по учебе в **Telegram-канале** https://t.me/devlogweb — заглядывайте!*
